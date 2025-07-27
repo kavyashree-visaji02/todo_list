@@ -29,7 +29,8 @@ A simple and lightweight desktop GUI-based To-Do List application built using Py
 5. Run
 python todo.py
 
-<img width="1920" height="1080" alt="todo_ screenshot png" src="https://github.com/user-attachments/assets/d52f14c1-927d-44e5-917a-6c40eb688413" />
+<img width="561" height="659" alt="todo_ screenshot png" src="https://github.com/user-attachments/assets/8a5b8c58-0ff8-4bb2-b6a2-79461fa9a3bf" />
+
 
 
  
